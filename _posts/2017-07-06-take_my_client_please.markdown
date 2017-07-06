@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'Take my Client, Please!'"
-date:   2017-07-06 22:33:55 +0000
+date:   2017-07-06 18:33:56 -0400
 ---
 
 I'm an online marketing consultant specializing in lead-gen, online promotions, and organic / paid social. I've worked and freelanced at several agencies of all sizes.
