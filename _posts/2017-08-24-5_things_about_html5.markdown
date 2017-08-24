@@ -13,18 +13,15 @@ Here are my top 5 notable updates that HTML5 offers.
 
 * Now, with the HTML5 <video> element, you can embed a video directly into a web page. Speaking of Flash...
 
-
 2. Graphics / Animation:
  
 * In HTML, the way to render graphics and animation on a site was through Flash.
 
 * HTML 5's new <canvas> element can used instead of Flash to draw graphics via JavaScript. Note that the <canvas> element is only a container for graphics. You'd still have to use JavaScript to draw the graphics. Canvas has several methods for drawing various shapes, paths and adding images.
 
-
 3. The DOM:
 
 * Another difference is that HTML5 provides full support for JavaScript to run in the background (thanks to the JS web worker API of HTML5). For example, the HTML5 DOM has methods, properties, and events for the <audio> and <video> elements which allow you to manipulate these elements using JavaScript.
-
 
 4. Semantics:
 
@@ -45,7 +42,6 @@ HTML5: article
 Footer:
 HTML: div id ="footer"
 HTML5: footer
-
 
 5. Local Storage:
 
