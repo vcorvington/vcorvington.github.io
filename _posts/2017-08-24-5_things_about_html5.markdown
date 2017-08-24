@@ -11,13 +11,13 @@ Here are my top 5 notable updates that HTML5 offers.
 
 * In regular HTML, videos were played through a browser and required a plug-in (ex: Flash). We all remember how annoying those can be.
 
-* Now, with the HTML5 `<video>` element, you can embed a video directly into a web page. Speaking of Flash...
+* Now, with the HTML5 video element, you can embed a video directly into a web page. Speaking of Flash...
 
 2. Graphics / Animation:
  
 * In HTML, the way to render graphics and animation on a site was through Flash.
 
-* HTML 5's new `<canvas>` element can used instead of Flash to draw graphics via JavaScript. Note that the <canvas> element is only a container for graphics. You'd still have to use JavaScript to draw the graphics. Canvas has several methods for drawing various shapes, paths and adding images.
+* HTML 5's new canvas element can used instead of Flash to draw graphics via JavaScript. Note that the <canvas> element is only a container for graphics. You'd still have to use JavaScript to draw the graphics. Canvas has several methods for drawing various shapes, paths and adding images.
 
 3. The DOM:
 
