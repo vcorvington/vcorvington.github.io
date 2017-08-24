@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "5 things about HTML5"
-date:   2017-08-24 13:02:22 +0000
+title:  "5 Updates About HTML5"
+date:   2017-08-24 09:02:23 -0400
 ---
 
 
