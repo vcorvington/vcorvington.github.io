@@ -17,11 +17,11 @@ Here are my top 5 notable updates that HTML5 offers.
  
 * In HTML, the way to render graphics and animation on a site was through Flash.
 
-* HTML 5's new canvas element can used instead of Flash to draw graphics via JavaScript. Note that the <canvas> element is only a container for graphics. You'd still have to use JavaScript to draw the graphics. Canvas has several methods for drawing various shapes, paths and adding images.
+* HTML 5's new canvas element can used instead of Flash to draw graphics via JavaScript. Note that the canvas element is only a container for graphics. You'd still have to use JavaScript to draw the graphics. Canvas has several methods for drawing various shapes, paths and adding images.
 
 3. The DOM:
 
-* Another difference is that HTML5 provides full support for JavaScript to run in the background (thanks to the JS web worker API of HTML5). For example, the HTML5 DOM has methods, properties, and events for the <audio> and <video> elements which allow you to manipulate these elements using JavaScript.
+* Another difference is that HTML5 provides full support for JavaScript to run in the background (thanks to the JS web worker API of HTML5). For example, the HTML5 DOM has methods, properties, and events for the audio and video elements which allow you to manipulate these elements using JavaScript.
 
 4. Semantics:
 
@@ -48,7 +48,4 @@ HTML5: footer
 * Before HTML5, application data had to be stored in cookies included in every server request (to remember your preferences, login state, etc). Note that cookies can only hold a small amount of data.
 
 * With HTML5's local storage, web applications can store data locally within the user's browser. The local storage object is a part of the global window namespace and can be accessed from wherever desired while using scripts. Local storage is per origin (per domain and protocol). All pages, from one origin, can store and access the same data. Unlike cookies, local storage doesn't slow down browsing performance, the storage limit is far larger (at least 5MB) and information is never transferred to the server, making it more secure.
-
-
-
 
